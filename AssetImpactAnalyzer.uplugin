@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Asset Impact Analyzer",
+	"Description": "Editor plugin for analyzing asset dependency impact and change risk.",
+	"Category": "Tools",
+	"CreatedBy": "Adam Janikowski",
+	"CreatedByURL": "https://github.com/janikowski-dev",
+	"DocsURL": "https://github.com/janikowski-dev/asset-impact-analyzer",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/janikowski-dev/asset-impact-analyzer/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AssetImpactAnalyzer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
